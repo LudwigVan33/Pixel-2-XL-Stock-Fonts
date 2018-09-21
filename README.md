@@ -6,5 +6,5 @@ v1.0
 
 ## Description 
 Systemless adds Pixel 2 XL Stock Fonts.
-As far as I can see Pixel Fonts is a combination of Roboto and Google Sans, I tried to emulate it but there's text that shouldn't be Google Sans/Roboto. If you have a way to do it whit better results or know how exactly works fonts on Pixel phones please let me know whit a issue.
+As far as I can see Pixel Fonts is a combination of Roboto and Google Sans, I tried to get the same result but there's text that shouldn't be Google Sans/Roboto. If you have a way to do it whit better results or know how exactly fonts works on Pixel phones please let me know whit a issue.
 

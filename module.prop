@@ -3,5 +3,5 @@ name=Pixel 2 XL Stock Fonts
 version=v1.0
 versionCode=1
 author=Ludwig33
-description=Systemless adds Pixel 2 XL Stock Fonts. Based on PPR2.180905.005 build. Pixel Fonts is a combination of Roboto and Google Sans, I tried to emulate it.
+description=Systemless adds Pixel 2 XL Stock Fonts, based on PPR2.180905.005 build. Pixel Fonts is a combination of Roboto and Google Sans, for now I replace light and medium roboto fonts whit Google Sans to get something close to pixel.
 minMagisk=17000
